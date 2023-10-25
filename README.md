@@ -11,5 +11,5 @@ Everyone likes eating out with friends. The more friends, the better, but the bi
 3. The total bill amount.
 4. If you want to use the "lucky" feature. If used, it will pick one of the guests as "lucky" and their portion will be 0.
 
-![Bill Splitter Usage](https://github.com/abe-min/Python_Projects/bill_splitter/blob/main/files/bill_splitter_usage.png?raw=true "Bill Splitter Usage")
+![Bill Splitter Usage](https://github.com/abe-min/Python_Projects/blob/main/files/bill_splitter_usage.png?raw=true "Bill Splitter Usage")
 
